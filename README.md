@@ -1,3 +1,3 @@
 # simple_messenger
-![Image of Yaktocat](https://github.com/mcwchitos/simple_messenger/blob/master/screen.PNG)
-![Image of Yaktocat](https://github.com/mcwchitos/simple_messenger/blob/master/screen2.PNG)
+![Image1](https://github.com/mcwchitos/simple_messenger/blob/master/screen.PNG)
+![Image2](https://github.com/mcwchitos/simple_messenger/blob/master/screen2.PNG)
