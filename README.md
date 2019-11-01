@@ -1,3 +1,5 @@
 # simple_messenger
-![Image1](https://github.com/mcwchitos/simple_messenger/blob/master/screen.PNG)
-![Image2](https://github.com/mcwchitos/simple_messenger/blob/master/screen2.PNG)
+![screen](https://user-images.githubusercontent.com/36101534/68053597-600e8300-fcfd-11e9-9be9-2a3b3b45a187.PNG)
+![screen2](https://user-images.githubusercontent.com/36101534/68053647-86ccb980-fcfd-11e9-92f6-94ebc7b25453.PNG)
+
+
